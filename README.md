@@ -6,7 +6,7 @@
 
 A powerful CLI tool to visualize project directory structure with smart exclusions, multiple output formats, and colorized output.
 
-![Structure Viewer Demo](https://via.placeholder.com/800x400?text=Structure+Viewer+Demo)
+![Structure Viewer Demo](assets/demo.png)
 
 ## ✨ Features
 
