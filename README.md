@@ -174,11 +174,11 @@ json_output = format_json(tree)
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](https://github.com/crrrowz/structure-viewer/blob/main/CONTRIBUTING.md) for guidelines.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/crrrowz/structure-viewer/blob/main/LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
