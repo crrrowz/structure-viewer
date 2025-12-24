@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "structure-viewer"
-version = "1.0.0"
+version = "1.0.1"
 description = "A powerful CLI tool to visualize project directory structure with smart exclusions and multiple output formats"
 readme = "README.md"
 license = "MIT"
