@@ -1,2 +1,4 @@
-py app.py
-structure
+cd 'd:\files\Contracted projects\IdeaProjects\structure-viewer'
+structure -s --no-color
+cd 'd:\files\Contracted projects\IdeaProjects\structure-viewer'
+Get-ChildItem -File | Select-Object Name
